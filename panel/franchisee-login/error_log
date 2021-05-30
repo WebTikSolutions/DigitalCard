@@ -1,0 +1,345 @@
+[09-May-2020 12:37:51 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/login.php on line 50
+[09-May-2020 12:38:13 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/login.php on line 78
+[09-May-2020 12:39:02 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/login.php on line 78
+[09-May-2020 12:43:53 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/login.php on line 78
+[09-May-2020 12:49:20 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/verify.php on line 18
+[09-May-2020 12:55:08 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/verify.php on line 18
+[09-May-2020 12:55:38 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/verify.php on line 18
+[09-May-2020 12:56:47 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/verify.php on line 18
+[09-May-2020 12:56:51 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/verify.php on line 18
+[09-May-2020 12:56:53 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/verify.php on line 18
+[09-May-2020 12:56:54 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/verify.php on line 18
+[09-May-2020 12:56:59 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/verify.php on line 18
+[09-May-2020 12:57:10 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/verify.php on line 18
+[09-May-2020 18:01:40 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/index.php on line 16
+[09-May-2020 18:28:36 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/index.php on line 16
+[09-May-2020 21:34:43 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/index.php on line 16
+[09-May-2020 22:49:01 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/index.php on line 16
+[09-May-2020 23:01:52 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/index.php on line 16
+[10-May-2020 08:46:25 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/create_card5.php on line 16
+[10-May-2020 08:46:25 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/create_card5.php on line 37
+[10-May-2020 08:46:30 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/index.php on line 16
+[10-May-2020 14:29:04 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/create_card5.php on line 16
+[10-May-2020 14:29:04 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/create_card5.php on line 37
+[10-May-2020 14:29:04 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/create_card5.php on line 37
+[10-May-2020 14:29:08 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/index.php on line 16
+[10-May-2020 14:29:08 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/index.php on line 53
+[10-May-2020 14:29:08 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/index.php on line 54
+[10-May-2020 14:33:16 Asia/Kolkata] PHP Notice:  Undefined index: d_ac_type in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/create_card4.php on line 204
+[10-May-2020 15:34:41 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/preview_page.php on line 41
+[10-May-2020 15:34:41 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/preview_page.php on line 41
+[10-May-2020 15:34:55 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/index.php on line 16
+[10-May-2020 15:34:55 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/index.php on line 53
+[10-May-2020 15:34:55 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/index.php on line 54
+[10-May-2020 17:03:22 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/create_card2.php on line 16
+[10-May-2020 17:03:22 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/create_card2.php on line 37
+[10-May-2020 17:03:22 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/create_card2.php on line 37
+[10-May-2020 17:03:31 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/index.php on line 16
+[10-May-2020 17:03:31 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/index.php on line 53
+[10-May-2020 17:03:31 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/index.php on line 54
+[10-May-2020 17:04:46 Asia/Kolkata] PHP Notice:  Undefined index: d_ac_type in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/create_card4.php on line 204
+[12-May-2020 00:12:38 Asia/Kolkata] PHP Notice:  Undefined index: d_ac_type in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/create_card4.php on line 209
+[12-May-2020 04:15:37 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/login/create_card.php on line 16
+[13-May-2020 16:44:10 Asia/Kolkata] PHP Notice:  Undefined variable: headers in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/franchisee-login/preview_page.php on line 226
+[14-May-2020 11:12:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/franchisee-login/select_theme.php on line 35
+[14-May-2020 11:12:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/franchisee-login/select_theme.php on line 38
+[14-May-2020 11:12:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/franchisee-login/select_theme.php on line 42
+[14-May-2020 11:12:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/franchisee-login/select_theme.php on line 45
+[14-May-2020 11:12:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/franchisee-login/select_theme.php on line 48
+[14-May-2020 11:12:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/franchisee-login/select_theme.php on line 51
+[14-May-2020 11:12:57 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/franchisee-login/select_theme.php on line 35
+[14-May-2020 11:12:57 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/franchisee-login/select_theme.php on line 38
+[14-May-2020 11:12:57 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/franchisee-login/select_theme.php on line 42
+[14-May-2020 11:12:57 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/franchisee-login/select_theme.php on line 45
+[14-May-2020 11:12:57 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/franchisee-login/select_theme.php on line 48
+[14-May-2020 11:12:57 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/franchisee-login/select_theme.php on line 51
+[14-May-2020 17:39:44 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/franchisee-login/connect.php on line 8
+[14-May-2020 17:40:06 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/franchisee-login/connect.php on line 8
+[14-May-2020 17:40:08 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/franchisee-login/connect.php on line 8
+[14-May-2020 17:40:09 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rzc2fmyoieym/public_html/hosting/snglobalservices.com/digicard/panel/franchisee-login/connect.php on line 8
+[16-May-2020 12:16:22 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[16-May-2020 12:16:26 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[16-May-2020 12:16:30 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[16-May-2020 12:16:33 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[16-May-2020 12:16:40 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[16-May-2020 12:16:56 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[16-May-2020 12:17:14 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[16-May-2020 12:18:04 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[16-May-2020 12:18:33 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[16-May-2020 12:22:34 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[16-May-2020 12:22:43 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[16-May-2020 12:22:51 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[16-May-2020 12:22:59 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[16-May-2020 12:23:07 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[16-May-2020 12:23:15 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[16-May-2020 12:23:19 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[16-May-2020 12:23:24 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[16-May-2020 12:23:28 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[16-May-2020 12:30:01 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 34
+[16-May-2020 12:30:10 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 34
+[16-May-2020 12:30:57 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 34
+[16-May-2020 12:31:07 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 34
+[16-May-2020 12:31:16 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 34
+[16-May-2020 12:31:56 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 34
+[16-May-2020 14:46:04 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 18
+[16-May-2020 14:46:04 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 25
+[16-May-2020 14:46:04 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 31
+[16-May-2020 14:46:04 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 37
+[16-May-2020 14:46:04 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 43
+[16-May-2020 14:46:04 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 49
+[16-May-2020 14:46:04 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 91
+[16-May-2020 14:46:04 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 127
+[16-May-2020 14:46:21 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 18
+[16-May-2020 14:46:21 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 25
+[16-May-2020 14:46:21 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 31
+[16-May-2020 14:46:21 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 37
+[16-May-2020 14:46:21 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 43
+[16-May-2020 14:46:21 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 49
+[16-May-2020 14:46:21 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 91
+[16-May-2020 14:46:21 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 127
+[16-May-2020 14:46:23 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 18
+[16-May-2020 14:46:23 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 25
+[16-May-2020 14:46:23 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 31
+[16-May-2020 14:46:23 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 37
+[16-May-2020 14:46:23 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 43
+[16-May-2020 14:46:24 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 49
+[16-May-2020 14:46:24 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 91
+[16-May-2020 14:46:24 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 127
+[16-May-2020 14:46:34 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 18
+[16-May-2020 14:46:34 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 25
+[16-May-2020 14:46:34 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 31
+[16-May-2020 14:46:34 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 37
+[16-May-2020 14:46:34 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 43
+[16-May-2020 14:46:34 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 49
+[16-May-2020 14:46:34 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 91
+[16-May-2020 14:46:34 Asia/Kolkata] PHP Notice:  Undefined index: f_user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/index.php on line 127
+[16-May-2020 10:41:21 UTC] PHP Warning:  require(../connect.php): failed to open stream: No such file or directory in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 4
+[16-May-2020 10:41:21 UTC] PHP Fatal error:  require(): Failed opening required '../connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 4
+[16-May-2020 10:46:35 UTC] PHP Warning:  require(../connect.php): failed to open stream: No such file or directory in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 4
+[16-May-2020 10:46:35 UTC] PHP Fatal error:  require(): Failed opening required '../connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 4
+[16-May-2020 10:51:20 UTC] PHP Warning:  require(../connect.php): failed to open stream: No such file or directory in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 4
+[16-May-2020 10:51:20 UTC] PHP Fatal error:  require(): Failed opening required '../connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 4
+[16-May-2020 11:19:28 UTC] PHP Warning:  require(../connect.php): failed to open stream: No such file or directory in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 4
+[16-May-2020 11:19:28 UTC] PHP Fatal error:  require(): Failed opening required '../connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 4
+[16-May-2020 11:19:36 UTC] PHP Warning:  require(../connect.php): failed to open stream: No such file or directory in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 4
+[16-May-2020 11:19:36 UTC] PHP Fatal error:  require(): Failed opening required '../connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 4
+[16-May-2020 11:19:42 UTC] PHP Warning:  require(../connect.php): failed to open stream: No such file or directory in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 4
+[16-May-2020 11:19:42 UTC] PHP Fatal error:  require(): Failed opening required '../connect.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 4
+[16-May-2020 18:24:40 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[16-May-2020 18:25:28 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[17-May-2020 11:22:01 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 16
+[17-May-2020 11:22:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[17-May-2020 11:22:06 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 16
+[17-May-2020 11:22:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[17-May-2020 11:26:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[17-May-2020 11:26:42 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 32
+[17-May-2020 14:16:06 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 16
+[17-May-2020 14:16:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 33
+[17-May-2020 14:17:20 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 16
+[17-May-2020 14:17:20 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 33
+[17-May-2020 14:18:48 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 16
+[17-May-2020 14:18:48 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 33
+[17-May-2020 14:19:38 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/select_theme.php on line 35
+[17-May-2020 14:19:38 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/select_theme.php on line 38
+[17-May-2020 14:19:38 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/select_theme.php on line 42
+[17-May-2020 14:19:38 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/select_theme.php on line 45
+[17-May-2020 14:19:38 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/select_theme.php on line 48
+[17-May-2020 14:19:38 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/select_theme.php on line 51
+[17-May-2020 14:19:48 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/select_theme.php on line 35
+[17-May-2020 14:19:48 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/select_theme.php on line 38
+[17-May-2020 14:19:48 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/select_theme.php on line 42
+[17-May-2020 14:19:48 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/select_theme.php on line 45
+[17-May-2020 14:19:48 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/select_theme.php on line 48
+[17-May-2020 14:19:48 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/select_theme.php on line 51
+[17-May-2020 14:21:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/select_theme.php on line 35
+[17-May-2020 14:21:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/select_theme.php on line 38
+[17-May-2020 14:21:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/select_theme.php on line 42
+[17-May-2020 14:21:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/select_theme.php on line 45
+[17-May-2020 14:21:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/select_theme.php on line 48
+[17-May-2020 14:21:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/select_theme.php on line 51
+[17-May-2020 14:22:46 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 16
+[17-May-2020 14:22:46 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 33
+[17-May-2020 14:22:56 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 16
+[17-May-2020 14:22:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 33
+[17-May-2020 14:23:05 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 16
+[17-May-2020 14:23:05 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 33
+[17-May-2020 14:23:14 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 16
+[17-May-2020 14:23:14 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 33
+[17-May-2020 14:23:18 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 16
+[17-May-2020 14:23:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 33
+[17-May-2020 14:42:05 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 33
+[17-May-2020 14:43:16 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 33
+[17-May-2020 14:45:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 33
+[17-May-2020 14:45:40 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 33
+[17-May-2020 14:46:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 33
+[17-May-2020 14:48:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 33
+[17-May-2020 14:50:31 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 33
+[17-May-2020 14:52:26 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 33
+[17-May-2020 14:53:19 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 33
+[17-May-2020 15:04:06 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 15:04:06 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 15:04:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:04:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:04:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:04:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 73
+[17-May-2020 15:04:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 139
+[17-May-2020 15:04:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 163
+[17-May-2020 15:05:59 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 15:05:59 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 15:05:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:05:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:05:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:05:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 73
+[17-May-2020 15:05:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 139
+[17-May-2020 15:05:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 163
+[17-May-2020 15:07:40 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 15:07:40 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 15:07:40 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:07:40 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:07:40 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:07:40 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 73
+[17-May-2020 15:07:40 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 139
+[17-May-2020 15:07:40 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 163
+[17-May-2020 15:08:00 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 15:08:00 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 15:08:00 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:08:00 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:08:00 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:08:00 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 73
+[17-May-2020 15:08:00 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 139
+[17-May-2020 15:08:00 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 163
+[17-May-2020 15:08:20 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 15:08:20 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 15:08:20 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:08:20 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:08:20 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:08:20 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 73
+[17-May-2020 15:08:20 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 139
+[17-May-2020 15:08:20 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 163
+[17-May-2020 15:09:00 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 15:09:00 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 15:09:00 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:09:00 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:09:00 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:09:00 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 73
+[17-May-2020 15:09:00 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 139
+[17-May-2020 15:09:00 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 163
+[17-May-2020 15:09:29 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 15:09:29 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 15:09:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:09:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:09:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:09:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 73
+[17-May-2020 15:09:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 139
+[17-May-2020 15:09:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 163
+[17-May-2020 15:13:26 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 15:13:26 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 15:13:26 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:13:26 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:13:26 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:13:26 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 73
+[17-May-2020 15:13:26 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 139
+[17-May-2020 15:13:26 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 163
+[17-May-2020 15:24:08 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 15:24:08 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 15:24:08 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:24:08 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:24:08 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 15:24:08 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 73
+[17-May-2020 15:24:08 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 139
+[17-May-2020 15:24:08 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 163
+[17-May-2020 16:03:08 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 16:03:09 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 16:03:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 16:03:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 16:03:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 16:03:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 73
+[17-May-2020 16:03:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 139
+[17-May-2020 16:03:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 163
+[17-May-2020 16:03:11 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 16:03:11 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 16:03:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 16:03:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 16:03:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 16:03:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 73
+[17-May-2020 16:03:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 139
+[17-May-2020 16:03:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 163
+[17-May-2020 16:07:33 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 16
+[17-May-2020 16:07:33 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card.php on line 33
+[17-May-2020 17:15:56 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 17:15:56 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 17:15:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 17:15:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 17:15:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 38
+[17-May-2020 17:15:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 73
+[17-May-2020 17:15:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 139
+[17-May-2020 17:15:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 163
+[17-May-2020 18:16:33 Asia/Kolkata] PHP Warning:  move_uploaded_file(favicons/200517331606logo.png): failed to open stream: No such file or directory in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card2.php on line 107
+[17-May-2020 18:16:33 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpkXahQC' to 'favicons/200517331606logo.png' in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card2.php on line 107
+[17-May-2020 18:56:14 Asia/Kolkata] PHP Warning:  move_uploaded_file(favicons/200517145606IMG-20200517-WA0047.jpg): failed to open stream: No such file or directory in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card2.php on line 107
+[17-May-2020 18:56:14 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php9lUEsD' to 'favicons/200517145606IMG-20200517-WA0047.jpg' in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card2.php on line 107
+[17-May-2020 19:02:35 Asia/Kolkata] PHP Warning:  move_uploaded_file(favicons/200517350207young-positive-cool-lady-with-curly-hair-using-laptop-isolated_171337-6666.jpg): failed to open stream: No such file or directory in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card2.php on line 107
+[17-May-2020 19:02:35 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpuLY11C' to 'favicons/200517350207young-positive-cool-lady-with-curly-hair-using-laptop-isolated_171337-6666.jpg' in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card2.php on line 107
+[17-May-2020 19:05:17 Asia/Kolkata] PHP Warning:  move_uploaded_file(favicons/200517170507logo.png): failed to open stream: No such file or directory in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card2.php on line 107
+[17-May-2020 19:05:17 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpwJkvGg' to 'favicons/200517170507logo.png' in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card2.php on line 107
+[17-May-2020 19:12:40 Asia/Kolkata] PHP Warning:  move_uploaded_file(favicons/200517401207f35a502a-c343-48c4-aa30-1f6c9cbbe048.jpg): failed to open stream: No such file or directory in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card2.php on line 107
+[17-May-2020 19:12:40 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpD4Df9C' to 'favicons/200517401207f35a502a-c343-48c4-aa30-1f6c9cbbe048.jpg' in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card2.php on line 107
+[17-May-2020 20:27:30 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 20:27:30 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 20:27:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 39
+[17-May-2020 20:27:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 39
+[17-May-2020 20:27:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 39
+[17-May-2020 20:27:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 74
+[17-May-2020 20:27:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 97
+[17-May-2020 20:27:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 98
+[17-May-2020 20:27:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 100
+[17-May-2020 20:27:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 101
+[17-May-2020 20:27:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 103
+[17-May-2020 20:27:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 171
+[17-May-2020 20:27:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 195
+[17-May-2020 21:26:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 196
+[17-May-2020 21:55:49 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 21:55:49 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[17-May-2020 21:55:49 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 39
+[17-May-2020 21:55:49 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 39
+[17-May-2020 21:55:49 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 39
+[17-May-2020 21:55:49 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 74
+[17-May-2020 21:55:49 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 97
+[17-May-2020 21:55:49 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 98
+[17-May-2020 21:55:49 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 100
+[17-May-2020 21:55:49 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 101
+[17-May-2020 21:55:49 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 103
+[17-May-2020 21:55:49 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 171
+[17-May-2020 21:55:49 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 195
+[19-May-2020 10:43:50 Asia/Kolkata] PHP Notice:  Undefined index: d_pro_img in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/js_request.php on line 6
+[21-May-2020 15:04:54 Asia/Kolkata] PHP Notice:  Undefined variable: headers in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 259
+[23-May-2020 19:51:16 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/create_card5.php on line 424
+[23-May-2020 19:55:50 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 206
+[28-May-2020 13:17:57 Asia/Kolkata] PHP Notice:  Undefined index: card_id_inprocess in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[28-May-2020 13:17:57 Asia/Kolkata] PHP Notice:  Undefined index: user_email in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 21
+[28-May-2020 13:17:57 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 39
+[28-May-2020 13:17:57 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 39
+[28-May-2020 13:17:57 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 39
+[28-May-2020 13:17:57 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 74
+[28-May-2020 13:17:57 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 97
+[28-May-2020 13:17:57 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 98
+[28-May-2020 13:17:57 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 100
+[28-May-2020 13:17:57 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 101
+[28-May-2020 13:17:57 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 103
+[28-May-2020 13:17:57 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 136
+[28-May-2020 13:17:57 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 181
+[28-May-2020 13:17:57 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/preview_page.php on line 205
+[30-May-2020 21:01:41 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/rzc2fmyoieym/public_html/hosting/digicarddemo.site/panel/franchisee-login/connect.php on line 6
+[02-Aug-2020 08:53:16 Asia/Kolkata] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mydigibro/public_html/panel/franchisee-login/connect.php on line 5
+[02-Aug-2020 08:53:17 Asia/Kolkata] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mydigibro/public_html/panel/franchisee-login/connect.php on line 5
+[02-Aug-2020 08:53:17 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydigibro/public_html/panel/franchisee-login/index.php:1) in /home/mydigibro/public_html/panel/franchisee-login/header.php on line 2
+[02-Aug-2020 08:53:18 Asia/Kolkata] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mydigibro/public_html/panel/franchisee-login/connect.php on line 5
+[02-Aug-2020 08:53:18 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydigibro/public_html/panel/franchisee-login/wallet.php:1) in /home/mydigibro/public_html/panel/franchisee-login/header.php on line 2
+[02-Aug-2020 08:53:19 Asia/Kolkata] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mydigibro/public_html/panel/franchisee-login/connect.php on line 5
+[02-Aug-2020 08:53:19 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydigibro/public_html/panel/franchisee-login/my_account.php:1) in /home/mydigibro/public_html/panel/franchisee-login/header.php on line 2
+[02-Aug-2020 08:53:20 Asia/Kolkata] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mydigibro/public_html/panel/franchisee-login/connect.php on line 5
+[02-Aug-2020 08:53:20 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydigibro/public_html/panel/franchisee-login/user_manager.php:1) in /home/mydigibro/public_html/panel/franchisee-login/header.php on line 2
+[02-Aug-2020 08:53:21 Asia/Kolkata] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mydigibro/public_html/panel/franchisee-login/connect.php on line 5
+[02-Aug-2020 08:53:21 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydigibro/public_html/panel/franchisee-login/create_account.php:1) in /home/mydigibro/public_html/panel/franchisee-login/header.php on line 2
+[02-Aug-2020 08:53:22 Asia/Kolkata] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mydigibro/public_html/panel/franchisee-login/connect.php on line 5
+[02-Aug-2020 08:53:22 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mydigibro/public_html/panel/franchisee-login/index.php:1) in /home/mydigibro/public_html/panel/franchisee-login/header.php on line 2

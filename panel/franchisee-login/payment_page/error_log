@@ -1,0 +1,8 @@
+[01-Aug-2020 11:34:23 Asia/Kolkata] PHP Fatal error:  Uncaught Razorpay\Api\Errors\BadRequestError: The api key provided is invalid in /home/needvcard/public_html/panel/franchisee-login/payment_page/razorpay-php/src/Request.php:123
+Stack trace:
+#0 /home/needvcard/public_html/panel/franchisee-login/payment_page/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 401, Object(Requests_Response))
+#1 /home/needvcard/public_html/panel/franchisee-login/payment_page/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/needvcard/public_html/panel/franchisee-login/payment_page/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#3 /home/needvcard/public_html/panel/franchisee-login/payment_page/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/needvcard/public_html/panel/franchisee-login/payment_page/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create(Array)
+#5 /home/needvcard/public_html/panel/fra in /home/needvcard/public_html/panel/franchisee-login/payment_page/razorpay-php/src/Request.php on line 123
